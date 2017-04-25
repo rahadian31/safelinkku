@@ -1,0 +1,2 @@
+# safelinkku
+safe link converter
